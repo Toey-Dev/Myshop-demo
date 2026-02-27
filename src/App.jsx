@@ -6,7 +6,7 @@ import Silde from "./components/Silde";
 import FristCard from "./components/FristCard";
 import TitleCard from "./components/TitleCard";
 import Buttonproduct from "./components/Buttonproduct";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 
 function App() {
   const [data, setData] = useState("Toey");
